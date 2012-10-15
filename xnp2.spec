@@ -1,8 +1,8 @@
 Name:           xnp2
-Version:        20120302
-Release:        14.1
+Version:        20120618
+Release:        1
 Summary:        NEC pc9801 computer emulator
-Group:          System/Emulators/PC
+Group:          Emulators
 License:        BSD
 Source0:        %{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/build-root-%{name}
