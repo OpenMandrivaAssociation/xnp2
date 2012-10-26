@@ -1,5 +1,5 @@
 Name:           xnp2
-Version:        20120618
+Version:        20120302
 Release:        1
 Summary:        NEC pc9801 computer emulator
 Group:          Emulators
