@@ -1,6 +1,6 @@
 Name:           xnp2
 Version:        20120302
-Release:        1
+Release:        %mkrel 1
 Summary:        NEC pc9801 computer emulator
 Group:          Emulators
 License:        BSD
