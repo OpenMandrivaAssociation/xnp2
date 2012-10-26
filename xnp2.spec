@@ -9,8 +9,8 @@ BuildRoot:      %{_tmppath}/build-root-%{name}
 BuildRequires:  libpng-devel
 BuildRequires:  gcc-c++ libtool
 BuildRequires:  gtk2-devel nasm
-BuildRequires:  SDL-devel SDL_sound-devel SDL_mixer-devel
-BuildRequires:  libXv-devel
+BuildRequires:  SDL-devel SDL_sound-devel SDL_mixer-devel X11-devel
+
 
 %description
 xnp2 is neko project II linux version.
